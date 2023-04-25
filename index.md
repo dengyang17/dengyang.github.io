@@ -9,7 +9,7 @@ I am currently a postdoctoral research fellow in [NExT++](https://www.nextcenter
 My research mainly lies in **natural language processing** and **information retrieval** – with a special focus on building intelligent systems that interact with human users, e.g., question answering systems, dialogue systems, conversational recommender systems. In order to achieve strong AI that has autonomy and human-like consciousness for serving human users, my research goals include but not limited to: 
 - **User-centric**: to mine and discover users’ personal interests (e.g., opinions, topics, preferences, etc) for facilitating a better user-engaged interactive system
 - **Knowledge-grounded**: to acquire and reason about necessary information from external knowledge resources, including structured and unstructured knowledge as well as heterogeneous and multimodal knowledge. 
-- **Proactive**: to create and control the conversation for achieving the conversational goals by taking initiative and anticipating impacts on the system or human users, rather than only following the user-oriented conversation direction in a passive manner.
+- **Proactive**: to create and control the human-AI interaction for achieving the goals by taking initiative and anticipating impacts on the system or human users, rather than only following the user-oriented conversation direction in a passive manner.
 - **Reliable**: to produce reliable responses, including the facuality, safety, privacy, and ethical considerations.  
 
 ## News
